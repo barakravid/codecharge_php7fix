@@ -2,6 +2,7 @@
 
 ///////////////////////////////////////////////
 // updated  2019-11-12
+// dirty script to tranform CodeCharge Studion files to work with PHP7.2
 ///////////////////////////////////////////////
 
 /// exit if script is not called from command line
