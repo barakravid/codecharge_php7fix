@@ -4,7 +4,8 @@ script to transform code charge studio output to php 7.2
 I've developed a script to transform CCS php files to work with PHP7.2. includes changing function and constructor names,
 each iterations etc. I don't take any responsibility, but I am using this regularly.
 
-usage from command line:
+Usage from command line:
+
 php conv_fnames.php <path to project dir after publish>
 
 Notice:
