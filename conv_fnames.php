@@ -254,7 +254,9 @@ function fix_fnames($path)
 
 	}
 
-
+	/// replace depracated get_magic_quotes_gpc() function with false constant
+	$str_result = str_replace("get_magic_quotes_gpc()","false",$str_result, $cnn);
+	$cnnt += $cnn;
 
 	if( $cnnt> 0 )
 		$change_made = true;
