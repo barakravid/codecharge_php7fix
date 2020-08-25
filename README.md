@@ -1,7 +1,7 @@
 # codecharge_php7fix
-script to transform code charge studio output to php 7.2
+script to transform code charge studio output to php 7.4
 ----------------------------------------------------------------------
-I've developed a script to transform CCS php files to work with PHP7.2. includes changing function and constructor names,
+I've developed a script to transform CCS php files to work with PHP7.4. includes changing function and constructor names,
 each iterations etc. I don't take any responsibility, but I am using this regularly.
 
 Usage from command line:
