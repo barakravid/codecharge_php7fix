@@ -1,8 +1,8 @@
 <?php
 
 ///////////////////////////////////////////////
-// updated  2019-11-12
-// dirty script to tranform CodeCharge Studio files to work with PHP7.2
+// updated  2020-08-25
+// dirty script to tranform CodeCharge Studio files to work with PHP7.4
 ///////////////////////////////////////////////
 
 /// exit if script is not called from command line
